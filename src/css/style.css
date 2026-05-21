@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+header{
+background-color: chocolate;
+justify-content: center;
+text-align: center;
+padding-bottom: 25px;
+padding-top: 10px;
+width: 100%;
+}
+#tit{
+    color: gold;
+    font-size: 100px;
+}
+#sub-tit{
+    color: gold;
+    font-size: 15px;
+}
+nav{
+    background-color: brown;
+    justify-content: center;
+    text-align: center;
+    width: 100%; 
+}
+.div-p{
+    color: goldenrod;
+    font-size: 30px;
+}
