@@ -1,6 +1,8 @@
 body{
     margin: 0;
+    background-color: rgb(255, 244, 220);
 }
+
 header{
 background-color: chocolate;
 justify-content: center;
@@ -25,5 +27,45 @@ nav{
 }
 .div-p{
     color: goldenrod;
+    font-style: italic;
     font-size: 30px;
+    text-decoration: none;
+}
+.div-p:hover{
+    color: rgb(255, 89, 0)
+}
+.div-p:visited{
+    text-decoration: none;
+}
+
+/*#site-p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}*/
+main{
+
+}
+.cat{
+    font-style: oblique;
+    font-size: 45px;
+    text-align: center;
+    color: rgb(0, 175, 0);
+}
+#txt-in{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#aside-div{
+    justify-content: right;
+    width: 1628px;
+}
+aside{
+    text-align: right;
+    height: 100%;
+}
+#menu-p{
+    height: 800px;
 }

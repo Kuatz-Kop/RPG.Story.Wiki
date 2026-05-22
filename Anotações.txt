@@ -1,0 +1,13 @@
+Este site deveerá possuir as seguintes caracteristicas:
+1-Diversas ideias de histórias de RPG's de fácil acesso.
+2-Contúdo sobre personagens, campanhas, missões e mecânicas de home brew.
+3-Com o intúito de dar ideias e inspirações a mestres e jogadores.
+4-Ter contas para fazer.
+5-Ter filtro e barra de pesquisa.
+6-Qualquer um poder postar sua história.
+7-Sistema de moderação autonômo.
+8-Bate papo comunitário e privado, focado m RPG's.
+9-Criação de perfis para poder ficar famoso como um bom idealizador de campanhas.
+10-Poder avaliar as histórias com um ranking das melhores, com filtro no ranking ter fácil acesso.
+11-Ter multiplas opções de linguagem e tradução das obras.
+12-Ter como customiza o site para modo escuro.
