@@ -5,3 +5,5 @@ Foi feito em index.html: titulo, header e a base do nav.
 2-
 Foi realizada a parte final do script de nav.
 Foi inicidada a produção do texto do corpo do site.
+
+3- Foi posicionada corretamente a barra de menu.

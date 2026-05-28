@@ -38,11 +38,6 @@ nav{
     text-decoration: none;
 }
 
-/*#site-p{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}*/
 main{
 
 }
@@ -58,13 +53,12 @@ main{
     font-size: 20px;
 }
 
-#aside-div{
-    justify-content: right;
-    width: 1628px;
-}
 aside{
     text-align: right;
     height: 100%;
+    position: sticky;
+    top: 0;
+    
 }
 #menu-p{
     height: 800px;
